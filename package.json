@@ -1,0 +1,14 @@
+{
+  "name": "src",
+  "version": "cd src",
+  "description": "touch index.js",
+  "main": "index.js",
+  "repository": "https://github.com/prudence93/github-cli.git",
+  "license": "MIT",
+  "scripts": {
+    "dev": "node ./src/index.js"
+  },
+  "dependencies": {
+    "github-api": "^3.0.0"
+  }
+}
